@@ -1,0 +1,35 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+    --ifm-color-primary: #ff9500;
+    --ifm-color-primary-dark: #e68600;
+    --ifm-color-primary-darker: #d97f00;
+    --ifm-color-primary-darkest: #b36800;
+    --ifm-color-primary-light: #ffa01a;
+    --ifm-color-primary-lighter: #ffa526;
+    --ifm-color-primary-lightest: #ffb54d;
+}
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+    --ifm-color-primary: #f97101;
+    --ifm-color-primary-dark: #e06601;
+    --ifm-color-primary-darker: #d46001;
+    --ifm-color-primary-darkest: #ae4f01;
+    --ifm-color-primary-light: #fe7e15;
+    --ifm-color-primary-lighter: #fe8521;
+    --ifm-color-primary-lightest: #fe9a47;
+}
+
+.footer {
+  /* Adjust the vertical padding for the footer */
+  --ifm-footer-padding-vertical: 12px; /* Default is usually 24px or similar */
+  /* You can also adjust horizontal padding if needed */
+  --ifm-footer-padding-horizontal: 20px;
+  /* You can also change the background color if you want */
+  --ifm-footer-background-color: #303846; 
+}
