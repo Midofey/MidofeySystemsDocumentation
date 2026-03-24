@@ -1,0 +1,14 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/kinderap/docs.midofeysystems.com
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R common-ui $DEPLOYPATH
+    - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R markdown-page $DEPLOYPATH
+    - /bin/cp -R notification-system $DEPLOYPATH
+    - /bin/cp -R quest-system $DEPLOYPATH
+    - /bin/cp -R universal-interaction-system $DEPLOYPATH
+    - /bin/cp -R 404.html $DEPLOYPATH
+    - /bin/cp -R index.html $DEPLOYPATH
+    - /bin/cp -R sitemap.xml $DEPLOYPATH
