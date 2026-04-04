@@ -1,0 +1,1 @@
+(globalThis.webpackChunkmidofey_systems=globalThis.webpackChunkmidofey_systems||[]).push([[741],{5741(){}}]);
