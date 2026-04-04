@@ -93,15 +93,15 @@ const config = {
               },
               {
                 label: 'Notification System',
-                href: 'https://fab.com/listings/306f734a-6057-4c44-9396-dd5f5a67a351',
+                href: 'https://www.fab.com/listings/1e9ba4ea-942b-4744-ac01-4ae026de06fe',
               },
               {
                 label: 'Universal Interaction System',
-                href: 'https://fab.com/listings/2f6743cd-c0e1-44b7-9296-66d09c0c88c9',
+                href: 'https://www.fab.com/listings/c3465349-baea-4f43-892f-54871ca69234',
               },
               {
                 label: 'Quest System',
-                href: 'https://fab.com/listings/de13bd0b-cc93-45dd-ba1b-0244ffb46fe',
+                href: 'https://www.fab.com/listings/0cf5cdac-7c7f-4a3b-91fe-9cd1eb8c12f0',
               },
             ],
           },
