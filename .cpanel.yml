@@ -9,6 +9,8 @@ deployment:
     - /bin/cp -R notification-system $DEPLOYPATH
     - /bin/cp -R quest-system $DEPLOYPATH
     - /bin/cp -R universal-interaction-system $DEPLOYPATH
+    - /bin/cp -R search $DEPLOYPATH
     - /bin/cp -R 404.html $DEPLOYPATH
     - /bin/cp -R index.html $DEPLOYPATH
     - /bin/cp -R sitemap.xml $DEPLOYPATH
+    - /bin/cp -R search-index.json $DEPLOYPATH
